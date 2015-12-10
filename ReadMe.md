@@ -1,6 +1,6 @@
 # App Finder
 ![AppFinder](https://i.imgur.com/xIz2Tpz.png) <br><br>
-Thanks go to [TsudaKageyu](https://github.com/TsudaKageyu) for his great [icon extractor](https://github.com/TsudaKageyu/IconExtractor) logic.
+Thanks go to [TsudaKageyu](https://github.com/TsudaKageyu) for his great [icon extractor](https://github.com/TsudaKageyu/IconExtractor).
 
 AppFinder is a small application with a simple purpose in mind. Easily creating shortcuts for the portable apps on your USB.
 
